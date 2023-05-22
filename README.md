@@ -5,8 +5,7 @@
 
 
 ## Description :-
-* In this project, I created an ETL (Extract, Transform, Load) pipeline using Scrapy to scrape data from a bookstore website.   
- Then transform it, and load it into a MySQL database.
+* In this project, I created an ETL (Extract, Transform, Load) pipeline using Scrapy to scrape data from a bookstore website. Then transform it, and load it into a MySQL database.
 * The website use to scrape data from is "http://books.toscrape.com/"
 
 
