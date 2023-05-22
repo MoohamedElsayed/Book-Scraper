@@ -22,7 +22,7 @@
  13- price
 </pre>
 ### Step 2: Cleaning Data with Items & Item Pipelines    
-After extracting the data, I used Scrapy’s Items and Item Pipelines to clean and process the data.    
+After extracting the data, I created Pipelines to clean and process the data.    
 
 ### Step 3: Saving Data to CSV Files & MySQL Database    
 Once the data was cleaned and processed, I saved it to CSV files and loaded it into a MySQL database.    
