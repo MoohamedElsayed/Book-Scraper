@@ -3,7 +3,7 @@ from bookscraper.items import BookItem
 from urllib.parse import urlencode
 
 
-# API_KEY = '45f546f1-2ca8-4bd7-a371-e11e5338ccc0'
+# API_KEY = YOUR  API KEY
 
 
 # def get_proxy_url(url):
